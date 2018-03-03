@@ -1,0 +1,19 @@
+#ignore .idea folder
+task_1/.idea/
+task_2/.idea/
+task_3/.idea/
+
+#ignore out folder
+task_1/out/
+task_2/out/
+task_3/out/
+
+#ignore META_INF
+task_1/src/META-INF
+
+#other files
+task_2/task_2.iml
+
+
+
+
