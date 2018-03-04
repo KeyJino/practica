@@ -33,7 +33,7 @@ java -jar myTheBestJar.jar -f D:\Computer\file.json -p D:\Computer\ -t 10
 
 
 # Ready files for test
->"Practica/task_2/src/com/exsposit/practica/Recources/Files/file.json(xml, csv)" - ready links + file's names
+>"Practica/task_3/src/main/resources/files/file.json(xml, csv)" - ready links + file's names
 
 
 
