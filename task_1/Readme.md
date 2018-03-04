@@ -6,7 +6,9 @@ The program must download files via HTTP protocol.
 Input parametres:
 
 -l - a link to the file.
+
 -p - is the path on the file system where you want to save the file.
+
 -n - is the name of the file.
 
 Example:
