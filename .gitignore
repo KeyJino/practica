@@ -14,7 +14,9 @@ task_2/src/META-INF
 
 #other files
 task_2/task_2_reload.iml
-
+task_3/target
+task_3/task3_reload.iml
+task_3/src/test
 
 
 
