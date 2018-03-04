@@ -10,9 +10,10 @@ task_3/out/
 
 #ignore META_INF
 task_1/src/META-INF
+task_2/src/META-INF
 
 #other files
-task_2/task_2.iml
+task_2/task_2_reload.iml
 
 
 
